@@ -1,4 +1,5 @@
 # Education
 
-- Kiev Polytechnic Institute
-- Metarhia free educational program
+- National Aviation University
+    - Backelor of Software Development
+    - Master of Unmanned Aerial Vehicles Engineering
