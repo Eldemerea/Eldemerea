@@ -1,5 +1,5 @@
 <code>🎓 Student: NAU </code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: Software Engineer / UAV Engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: Swift</code>
